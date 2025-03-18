@@ -1,0 +1,12 @@
+
+---
+
+```text
+transformers
+peft
+torch
+datasets
+llama-factory
+vllm
+numpy
+pandas
