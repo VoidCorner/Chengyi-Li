@@ -1,4 +1,3 @@
-# Chengyi-Li
 Qwen2-7B LLM Fine-tuning
 
 # Qwen2-7B Motion Capture Fine-tuning
