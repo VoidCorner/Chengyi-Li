@@ -1,0 +1,11 @@
+{
+    "base_model": "Qwen/Qwen2-7B",
+    "output_dir": "./models/qwen2_lora_finetuned",
+    "epochs": 3,
+    "batch_size": 2,
+    "learning_rate": 2e-5,
+    "lora_r": 8,
+    "lora_alpha": 16,
+    "lora_dropout": 0.1,
+    "train_data": "./data/motion_data.csv"
+}
