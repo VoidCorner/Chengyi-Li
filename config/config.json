@@ -1,6 +1,6 @@
 {
-    "base_model": "Qwen/Qwen2-7B",
-    "output_dir": "./models/qwen2_lora_finetuned",
+    "base_model": "VoidCorner/Qwen2-7B_Vicon",
+    "output_dir": "./models/Qwen2-7B_Vicon_finetuned",
     "epochs": 3,
     "batch_size": 2,
     "learning_rate": 2e-5,
