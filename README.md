@@ -21,7 +21,7 @@ pip install -r requirements.txt
 
 ---
 
-## 📥 **2. Download the Pre-trained Qwen2-7B_Vicon Model**
+## **2. Download the Pre-trained Qwen2-7B_Vicon Model**
 
 Before fine-tuning, download the **pre-trained Qwen2-7B** from **Hugging Face**:
 
@@ -84,7 +84,7 @@ AI Response: To optimize your squat, keep your knees aligned with your toes...
 
 The fine-tuned model has been uploaded to **Hugging Face** for easy access.
 
-➡**Download Fine-tuned Model**: [Qwen2-7B_Vicon Fine-tuned](https://huggingface.co/VoidCorner/Qwen2-7B_Vicon)
+**Download Fine-tuned Model**: [Qwen2-7B_Vicon Fine-tuned](https://huggingface.co/VoidCorner/Qwen2-7B_Vicon)
 
 Use this Python script to load the fine-tuned model:
 ```python
